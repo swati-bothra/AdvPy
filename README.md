@@ -1,2 +1,2 @@
 # AdvPy
-Basic Python Concepts implemented
+Basic Python Concepts implemented like CGI Scripting, Networking, Threading, Decorators etc.
